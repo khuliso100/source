@@ -1,2 +1,1 @@
-# react-apps
-my react app collection
+# my music app
